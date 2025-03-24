@@ -1,0 +1,3 @@
+add lora - GPU Notebook <= 9 hours run-time
+try paligemmea
+try deepseek
